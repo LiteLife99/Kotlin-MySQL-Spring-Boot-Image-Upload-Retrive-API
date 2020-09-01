@@ -1,6 +1,5 @@
-package model
+package com.imageuploadapp.ImageUploadApp.model
 
-import org.hibernate.annotations.Generated
 import javax.persistence.*
 
 @Entity

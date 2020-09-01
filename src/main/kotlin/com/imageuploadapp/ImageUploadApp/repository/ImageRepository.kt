@@ -1,6 +1,6 @@
-package repository
+package com.imageuploadapp.ImageUploadApp.repository
 
-import model.ImageModel
+import com.imageuploadapp.ImageUploadApp.model.ImageModel
 import org.springframework.data.jpa.repository.JpaRepository
 import org.springframework.stereotype.Repository
 import java.util.*
